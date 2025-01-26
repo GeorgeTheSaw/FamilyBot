@@ -154,6 +154,7 @@ async def list_tasks(update: Update, context: CallbackContext) -> None:
                 f"Напоминание: {task['reminder']}"
             )
 
+
 # Команда /done
 async def mark_done(update: Update, context: CallbackContext) -> None:
     try:
