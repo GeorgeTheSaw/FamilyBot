@@ -1,4 +1,2 @@
-/tokens.py
-/mongo_config.py
-/__pycache__/tokens.cpython-311.pyc
-__pycache__/mongo_config.cpython-311.pyc
+/__pycache__/*
+/config.py
